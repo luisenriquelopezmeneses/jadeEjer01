@@ -1,0 +1,23 @@
+{
+  "name": "ejer01",
+  "version": "1.0.0",
+  "description": "mi ejercicio de integrar jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisenriquelopezmeneses/jadeEjer01.git"
+  },
+  "keywords": [
+    "pba",
+    "jade"
+  ],
+  "author": "luisenrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisenriquelopezmeneses/jadeEjer01/issues"
+  },
+  "homepage": "https://github.com/luisenriquelopezmeneses/jadeEjer01#readme"
+}
